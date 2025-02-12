@@ -245,7 +245,7 @@ body {
 }
 
 .home-background {
-    background: url('/picture/bmmap.jpg');
+    background: url('picture/bmmap.jpg');
     background-size: cover;
     z-index:-1 ;
     width: 100%;
